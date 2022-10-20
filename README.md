@@ -1,2 +1,3 @@
 # stepik_auto_tests_course
-My autotests for the course "Test automation with Selenium and Python".
+I will save my autotests for the course "Test automation with Selenium and Python" here.
+Link to the course: https://stepik.org/course/575/syllabus
